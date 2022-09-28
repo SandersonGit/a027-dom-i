@@ -10,5 +10,6 @@ let input = document.getElementById("input")
 
 function adcionar(){
     fruta.innerHTML = input.value 
+    
 }
 
